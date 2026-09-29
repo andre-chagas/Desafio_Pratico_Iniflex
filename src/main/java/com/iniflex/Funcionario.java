@@ -30,6 +30,7 @@ public class Funcionario extends Pessoa {
         return funcao;
     }
 
+
     @SuppressWarnings("unused")
     public void setFuncao(String funcao) {
         this.funcao = funcao;
